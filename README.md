@@ -1,9 +1,11 @@
-# 게임 개발
+ Todee & Topdee
 
-<aside>
-💡 **인원** :  4인                                                                                                                                                  **기간** :  2025. 09 ~ 2025. 10                                                                                                                      **기술** :  C++, DirectX 9                                                                                                                               **역할** :  3D 상태 플레이어 및 보스 1종(2번째 보스), 오브젝트와의 상호작용
+> DirectX 9로 구현한 2D, 3D 차원을 넘나드는 플랫포머 퍼즐게임
 
-</aside>
+- 플레이 영상: https://www.youtube.com/watch?v=dmZgBtrUJjs&list=PLmfFrw50lE8_gS_yoKvSMk4_67kpLIhE2&index=61](https://www.youtube.com/watch?v=edF-MzIo6zc&t=98s
+- 개발 인원: 4인 개발
+- 담당 역할: 3D 상태 플레이어 및 보스 1종(2번째 보스), 오브젝트와의 상호작용
+- 플랫폼: Windows
 
 ## 프로젝트 소개
 
